@@ -9,4 +9,4 @@ Basic introduction to data modelling with emphasis on Entitity Relationship mode
 
 Part one focused on designing the database and drawing up ER diagram for it, as well as initializing the database structure in SQL.
 
-In part 2 one had to input all information needed for the database and using python and MySQL asking queries to access different data and information in the database.
+In part 2 one had to input all information needed for the database and using Python and SQLite for asking queries to access different data and information in the database.
